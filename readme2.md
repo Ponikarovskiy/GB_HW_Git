@@ -2,6 +2,8 @@
 
 ## 1. Подготовка рабочего пространства:
 
+start
+
 * [Скачать](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) и установить GIT;
 ![логотип_git](https://nsfocusglobal.com/wp-content/uploads/2020/04/git.jpg)
 * [Скачать](https://code.visualstudio.com/) и установить VSС
