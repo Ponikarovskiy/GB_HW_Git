@@ -2,10 +2,6 @@
 
 ## 1. Подготовка рабочего пространства:
 
-* [Скачать](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) и установить GIT;
-![логотип_git](https://nsfocusglobal.com/wp-content/uploads/2020/04/git.jpg)
-* [Скачать](https://code.visualstudio.com/) и установить VSС
-![логотип_VSC](https://media.vlpt.us/images/namtaehyun/post/fe5d86d3-f734-4943-b087-3f3e02b9d5ab/vscode.png?w=768)
 * Создать пустую папку (репозиторий) для дальнейшей работы;
 * Запустить VSC;
 * Запустить терминал;
